@@ -1,0 +1,126 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "inputing multiple username and password",
+        "description": "",
+        "id": "add-to-cart;inputing-multiple-username-and-password;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8441198838,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Im on Amazon signinpage",
+            "match": {
+              "location": "amazonaddtoCart.im_on_Amazon_signinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "i enetr pass",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "I input username and passwords with index \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 43
+                }
+              ],
+              "location": "amazonaddtoCart.i_input_username_and_passwords_with_index(int)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@test3"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "inputing multiple username and password",
+        "description": "",
+        "id": "add-to-cart;inputing-multiple-username-and-password;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7329492808,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Im on Amazon signinpage",
+            "match": {
+              "location": "amazonaddtoCart.im_on_Amazon_signinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "i enetr pass",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "I input username and passwords with index \"2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 43
+                }
+              ],
+              "location": "amazonaddtoCart.i_input_username_and_passwords_with_index(int)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@test3"
+          }
+        ]
+      }
+    ],
+    "name": "add to cart",
+    "description": "",
+    "id": "add-to-cart",
+    "keyword": "Feature",
+    "uri": "two.feature"
+  }
+]

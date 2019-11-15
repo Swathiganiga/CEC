@@ -1,0 +1,219 @@
+2019-09-13 13:09:395 INFO  waitHelper:137 -waiting for page to load for
+2019-09-13 13:09:683 INFO  signInPage:49 -signin loaded
+2019-09-13 14:09:541 INFO  waitHelper:137 -waiting for page to load for
+2019-09-13 14:09:767 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:619 INFO  waitHelper:137 -waiting for page to load for
+2019-09-13 14:09:706 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:329 INFO  waitHelper:137 -waiting for page to load for
+2019-09-13 14:09:493 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:978 INFO  waitHelper:137 -waiting for page to load for
+2019-09-13 14:09:63 INFO  Mainpage:38 -signin loaded
+2019-09-13 14:09:409 INFO  waitHelper:145 -waiting for page to load for
+2019-09-13 14:09:955 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:159 INFO  waitHelper:145 -waiting for page to load for
+2019-09-13 14:09:267 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:485 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:937 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:262 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:554 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:229 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:394 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:663 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:750 INFO  Mainpage:38 -signin loaded
+2019-09-13 14:09:746 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:831 INFO  productDescription:33 -signin loaded
+2019-09-13 14:09:832 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:883 INFO  productDescription:33 -signin loaded
+2019-09-13 14:09:83 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:224 INFO  addToCart:45 -signin loaded
+2019-09-13 14:09:457 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-13 14:09:754 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:16 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:506 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:652 INFO  addToCart:45 -signin loaded
+2019-09-13 14:09:172 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:359 INFO  signInPage:50 -signin loaded
+2019-09-13 14:09:565 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:91 INFO  Mainpage:38 -signin loaded
+2019-09-13 14:09:15 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 14:09:848 INFO  signInPage:50 -signin loaded
+2019-09-13 15:09:970 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:414 INFO  signInPage:50 -signin loaded
+2019-09-13 15:09:91 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:409 INFO  signInPage:50 -signin loaded
+2019-09-13 15:09:679 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:873 INFO  signInPage:50 -signin loaded
+2019-09-13 15:09:79 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:340 INFO  Mainpage:38 -signin loaded
+2019-09-13 15:09:127 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:202 INFO  productDescription:33 -signin loaded
+2019-09-13 15:09:203 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:247 INFO  productDescription:33 -signin loaded
+2019-09-13 15:09:47 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:220 INFO  addToCart:45 -signin loaded
+2019-09-13 15:09:748 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-13 15:09:759 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:999 INFO  signInPage:50 -signin loaded
+2019-09-13 15:09:493 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:700 INFO  addToCart:45 -signin loaded
+2019-09-13 15:09:796 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:23 INFO  signInPage:50 -signin loaded
+2019-09-13 15:09:970 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:418 INFO  Mainpage:38 -signin loaded
+2019-09-13 15:09:694 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:792 INFO  productDescription:33 -signin loaded
+2019-09-13 15:09:793 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:861 INFO  productDescription:33 -signin loaded
+2019-09-13 15:09:824 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 15:09:959 INFO  addToCart:45 -signin loaded
+2019-09-13 15:09:889 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-13 16:09:932 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:119 INFO  signInPage:50 -signin loaded
+2019-09-13 16:09:695 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:196 INFO  Mainpage:38 -signin loaded
+2019-09-13 16:09:604 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:188 INFO  productDescription:33 -signin loaded
+2019-09-13 16:09:190 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:275 INFO  productDescription:33 -signin loaded
+2019-09-13 16:09:722 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:888 INFO  addToCart:45 -signin loaded
+2019-09-13 16:09:924 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-13 16:09:947 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:104 INFO  signInPage:50 -signin loaded
+2019-09-13 16:09:803 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:886 INFO  addToCart:45 -signin loaded
+2019-09-13 16:09:714 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:645 INFO  signInPage:50 -signin loaded
+2019-09-13 16:09:626 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:787 INFO  Mainpage:38 -signin loaded
+2019-09-13 16:09:533 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:643 INFO  productDescription:33 -signin loaded
+2019-09-13 16:09:645 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:41 INFO  productDescription:33 -signin loaded
+2019-09-13 16:09:105 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:266 INFO  addToCart:45 -signin loaded
+2019-09-13 16:09:651 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-13 16:09:205 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:386 INFO  signInPage:50 -signin loaded
+2019-09-13 16:09:371 INFO  waitHelper:146 -waiting for page to load for
+2019-09-13 16:09:452 INFO  addToCart:45 -signin loaded
+2019-09-16 14:09:944 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:745 INFO  signInPage:50 -signin loaded
+2019-09-16 14:09:962 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:608 INFO  Mainpage:38 -signin loaded
+2019-09-16 14:09:832 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:888 INFO  productDescription:33 -signin loaded
+2019-09-16 14:09:890 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:932 INFO  productDescription:33 -signin loaded
+2019-09-16 14:09:940 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:123 INFO  addToCart:45 -signin loaded
+2019-09-16 14:09:660 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-16 14:09:497 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:418 INFO  signInPage:50 -signin loaded
+2019-09-16 14:09:905 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:112 INFO  addToCart:45 -signin loaded
+2019-09-16 14:09:353 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:300 INFO  signInPage:50 -signin loaded
+2019-09-16 14:09:415 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:516 INFO  Mainpage:38 -signin loaded
+2019-09-16 14:09:314 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:446 INFO  productDescription:33 -signin loaded
+2019-09-16 14:09:449 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:564 INFO  productDescription:33 -signin loaded
+2019-09-16 14:09:587 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 14:09:647 INFO  addToCart:45 -signin loaded
+2019-09-16 14:09:05 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-16 14:09:592 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:259 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:495 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:742 INFO  signInPage:50 -signin loaded
+2019-09-16 15:09:568 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:422 INFO  signInPage:50 -signin loaded
+2019-09-16 15:09:582 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:762 INFO  Mainpage:38 -signin loaded
+2019-09-16 15:09:927 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:07 INFO  productDescription:33 -signin loaded
+2019-09-16 15:09:09 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:91 INFO  productDescription:33 -signin loaded
+2019-09-16 15:09:769 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:825 INFO  addToCart:45 -signin loaded
+2019-09-16 15:09:627 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-16 15:09:144 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:212 INFO  signInPage:50 -signin loaded
+2019-09-16 15:09:292 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:491 INFO  addToCart:45 -signin loaded
+2019-09-16 15:09:546 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 15:09:900 INFO  signInPage:50 -signin loaded
+2019-09-16 15:09:167 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 16:09:957 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 16:09:336 INFO  signInPage:50 -signin loaded
+2019-09-16 16:09:582 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 16:09:527 INFO  signInPage:50 -signin loaded
+2019-09-16 16:09:646 INFO  waitHelper:146 -waiting for page to load for
+2019-09-16 16:09:723 INFO  Mainpage:38 -signin loaded
+2019-09-18 12:09:822 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 12:09:497 INFO  signInPage:50 -signin loaded
+2019-09-18 12:09:177 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 12:09:275 INFO  Mainpage:38 -signin loaded
+2019-09-18 12:09:81 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 12:09:330 INFO  signInPage:50 -signin loaded
+2019-09-18 12:09:893 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 12:09:985 INFO  addToCart:45 -signin loaded
+2019-09-18 13:09:647 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:575 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:898 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:437 INFO  Mainpage:38 -signin loaded
+2019-09-18 13:09:275 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:414 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:483 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:138 INFO  Mainpage:38 -signin loaded
+2019-09-18 13:09:664 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:836 INFO  productDescription:33 -signin loaded
+2019-09-18 13:09:838 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:210 INFO  productDescription:33 -signin loaded
+2019-09-18 13:09:550 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:685 INFO  addToCart:45 -signin loaded
+2019-09-18 13:09:784 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-18 13:09:954 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:515 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:176 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:317 INFO  addToCart:45 -signin loaded
+2019-09-18 13:09:334 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:179 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:155 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:317 INFO  Mainpage:38 -signin loaded
+2019-09-18 13:09:478 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:555 INFO  productDescription:33 -signin loaded
+2019-09-18 13:09:557 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:606 INFO  productDescription:33 -signin loaded
+2019-09-18 13:09:547 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:676 INFO  addToCart:45 -signin loaded
+2019-09-18 13:09:814 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-18 13:09:605 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:820 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:727 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:974 INFO  addToCart:45 -signin loaded
+2019-09-18 13:09:179 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:232 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:322 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:920 INFO  Mainpage:38 -signin loaded
+2019-09-18 13:09:829 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:985 INFO  productDescription:33 -signin loaded
+2019-09-18 13:09:987 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:422 INFO  productDescription:33 -signin loaded
+2019-09-18 13:09:691 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:814 INFO  addToCart:45 -signin loaded
+2019-09-18 13:09:165 ERROR VerificationHelper:29 -element is not diplayed...
+2019-09-18 13:09:271 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:481 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:419 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:418 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:101 INFO  signInPage:50 -signin loaded
+2019-09-18 13:09:541 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:635 INFO  signInPage:52 -signin loaded
+2019-09-18 13:09:467 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:522 INFO  signInPage:52 -signin loaded
+2019-09-18 13:09:980 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:50 INFO  signInPage:52 -signin loaded
+2019-09-18 13:09:249 INFO  waitHelper:146 -waiting for page to load for
+2019-09-18 13:09:485 INFO  signInPage:52 -signin loaded
